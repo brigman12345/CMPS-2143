@@ -4,7 +4,8 @@
 
 #### Email jbrigmans@yahoo.com
 
-#### Image: https://imgbox.com/2QuVT9Xr
+#### Image: <img src="https://thumbs2.imgbox.com/95/66/2QuVT9Xr_t.jpeg" width="200">
+
  
-#### Avatar: https://imgbox.com/k1ZXQK01 
+#### Avatar: 
 
