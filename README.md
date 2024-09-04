@@ -1,10 +1,10 @@
-James Steward
+### James Steward
 
-Repo-2143 OOP
+#### Repo-2143 OOP
 
-Email jbrigmans@yahoo.com
+#### Email jbrigmans@yahoo.com
 
-Image: https://imgbox.com/2QuVT9Xr
+#### Image: https://imgbox.com/2QuVT9Xr
  
-Avtar: https://imgbox.com/k1ZXQK01 
+#### Avatar: https://imgbox.com/k1ZXQK01 
 
