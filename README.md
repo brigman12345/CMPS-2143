@@ -6,5 +6,5 @@ Email jbrigmans@yahoo.com
 
 Image: https://imgbox.com/2QuVT9Xr
  
-
+Avtar: https://imgbox.com/k1ZXQK01 
 
