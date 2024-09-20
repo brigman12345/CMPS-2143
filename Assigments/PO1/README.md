@@ -6,7 +6,7 @@
 #### This C++ code defines a Fraction class that represents fractions and performs arithmetic operations like addition, subtraction, multiplication, and division using operator overloading. It simplifies fractions using the Greatest Common Divisor (GCD) and ensures that denominators are always positive. The class also includes input/output capabilities, allowing fractions to be read from streams and displayed. In the main function, fractions and operations are read from a file, and the corresponding results are computed and printed.
 
 
-# files
+# Files
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
@@ -14,6 +14,9 @@
 |  2  | Input file       | Fractions are held inside |
 
 
-# Instructions 
+# Instructions:
 
 * The output is contolled from the input file, so if you want to change the fractions change them from inside the file.
+
+# Exmaples:
+
