@@ -19,4 +19,4 @@
 * The output is contolled from the input file, so if you want to change the fractions change them from inside the file.
 
 # Exmaples:
-
+There is already examples inside the input file.
