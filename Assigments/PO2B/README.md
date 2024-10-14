@@ -1,23 +1,23 @@
 Carlos  Astudillo, James Steward, and Eduardo Robles
 
-Chat-wishful 
-first name-necessary 
-high score-possible 
-last name-necessary
-leaderboard-possible
-Levels-possible 
-player stats- possible
-Score- necessary 
-streak-wishful
-team stats- possible
-teams-posible
-userid-possible
-Winner- necessary
-Customization-wishful
-Grids- necessary 
-Rules- necessary
-Dice Roll- necessary
-Number of dice- necessary
+## Chat-wishful 
+## first name-necessary 
+## high score-possible 
+## last name-necessary
+## leaderboard-possible
+## Levels-possible 
+## player stats- possible
+## Score- necessary 
+## streak-wishful
+## team stats- possible
+## teams-posible
+## userid-possible
+## Winner- necessary
+## Customization-wishful
+## Grids- necessary 
+## Rules- necessary
+## Dice Roll- necessary
+## Number of dice- necessary
 
 Player class: 
 Data: firstname, last name, userID, player stats, player level, high score
