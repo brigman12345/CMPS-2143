@@ -11,7 +11,7 @@
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
 |  1  |[Link 1](main.cpp)   | program 1 |
-|  2  | [Link 2](Input file)       | Fractions are held inside |
+|  2  | [Link 2](Input.txt)       | Fractions are held inside |
 
 
 # Instructions:
