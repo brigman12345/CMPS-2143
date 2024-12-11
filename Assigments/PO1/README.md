@@ -10,8 +10,8 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  1  |(https://github.com/brigman12345/OOP-2143/tree/main/Assigments/PO1)   | program 1 |
-|  2  | Input file       | Fractions are held inside |
+|  1  |[Link 1](main.cpp)   | program 1 |
+|  2  | [Link 2](Input file)       | Fractions are held inside |
 
 
 # Instructions:
