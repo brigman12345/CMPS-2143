@@ -9,6 +9,6 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  1  |[Link 1](CursesTest.md)   | screenshot of it running |
+|  1  |[CursesTest](CursesTest.md)   | screenshot of it running |
 
 
