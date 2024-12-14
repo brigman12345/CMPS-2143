@@ -3,8 +3,7 @@
 ### 12/06/24
 ### 2143 OOP
 ### Description: 
-#### Provides definitions and examples of all of the OOP concepts you see below.
-[Wiki](https://github.com/EduardoMSU/OOP-2143/wiki) 
+
 
 # Object-Oriented Programming Primer
 
