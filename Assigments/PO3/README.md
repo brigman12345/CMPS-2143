@@ -9,5 +9,5 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  1  |[Animation code](Animation code.cpp)   | Animation code for knuckle bones |
+|  1  |[Animation code](Animationcode.cpp)   | Animation code for knuckle bones |
 
